@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game(Nic)", "Assembly-CSharp-firstpass.csproj", "{EC653A99-B6A6-9054-7F90-1E89DC479632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game(Nic)", "Assembly-CSharp-Editor-firstpass.csproj", "{062B7620-21FE-31B2-E76E-65CA9DF0F893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC653A99-B6A6-9054-7F90-1E89DC479632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC653A99-B6A6-9054-7F90-1E89DC479632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC653A99-B6A6-9054-7F90-1E89DC479632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC653A99-B6A6-9054-7F90-1E89DC479632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062B7620-21FE-31B2-E76E-65CA9DF0F893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062B7620-21FE-31B2-E76E-65CA9DF0F893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062B7620-21FE-31B2-E76E-65CA9DF0F893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062B7620-21FE-31B2-E76E-65CA9DF0F893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
