@@ -28,7 +28,7 @@ public class HUD_Manager : MonoBehaviour {
 	}
     public void UpdateHealth(int amount)
     {
-        CurrentHealth = CurrentHealth = amount;
+        CurrentHealth = CurrentHealth + amount;
         healthbar.value = CurrentHealth;
     }
 }
