@@ -61,8 +61,11 @@
   <ItemGroup>
     <Compile Include="Assets\Mixamo\Melee Axe Pack\Demo\CameraScroll.cs" />
     <Compile Include="Assets\Scripts\CollectableScript.cs" />
+    <Compile Include="Assets\Scripts\EnemyStats.cs" />
+    <Compile Include="Assets\Scripts\HitEnemy.cs" />
     <Compile Include="Assets\Scripts\HitPlayer.cs" />
     <Compile Include="Assets\Scripts\HUD_Manager.cs" />
+    <Compile Include="Assets\Scripts\PlayerScript.cs" />
     <None Include="Assets\Fruit Pack\Shaders\ToonLitTransparent.shader" />
     <None Include="Assets\Free medieval weapons\readme.txt" />
     <None Include="Assets\Fruit Pack\Shaders\ToonLit.shader" />
